@@ -1,0 +1,20 @@
+{"image": 
+	{	"status": "ACTIVE", 
+		"updated": null, 
+		"name": null, 
+		"links": 
+			[
+				{	"href": "http://172.241.0.101:8774/v1.1/images/1318860350", 
+					"rel": 
+					"self"}, 
+				{	"href": "http://172.241.0.101:8774/v1.1/images/1318860350", 
+					"type": "application/json", 
+					"rel": "bookmark"}, 
+				{	"href": "http://172.241.0.101:8774/v1.1/images/1318860350", 
+					"type": "application/xml", 
+					"rel": "bookmark"}
+			], 
+		"created": null, 
+		"id": 1318860350
+	}
+}

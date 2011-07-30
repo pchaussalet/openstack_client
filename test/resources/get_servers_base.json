@@ -1,0 +1,24 @@
+{"servers": 
+	[
+		{	"name": "test-server", 
+			"links": 	
+				[
+					{	
+						"href": "http://172.241.0.101:8774/v1.1/servers/16", 
+						"rel": "self"
+					}, 
+					{
+						"href": "http://172.241.0.101:8774/v1.1/servers/16", 
+						"type": "application/json", 
+						"rel": "bookmark"
+					}, 
+					{
+						"href": "http://172.241.0.101:8774/v1.1/servers/16", 
+						"type": "application/xml", 
+						"rel": "bookmark"
+					}
+				], 
+			"id": 16
+		}
+	]
+}

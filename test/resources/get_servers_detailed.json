@@ -1,0 +1,34 @@
+{"server": 
+	{	"status": "ACTIVE", 
+		"hostId": "67258055acdf22f218073815ef10223ac1dbba62ba69a96abd75856e", 
+		"addresses": 
+			{
+				"public": [], 
+				"private": 
+					[
+						{	"version": 4, 
+							"addr": "10.0.0.5"
+						}
+					]
+			}, 
+		"imageRef": "http://172.241.0.101:8774/v1.1/images/1318860350", 
+		"flavorRef": "http://172.241.0.101:8774/v1.1/flavors/3", 
+		"links": 
+			[
+				{	"href": "http://172.241.0.101:8774/v1.1/servers/19", 
+					"rel": "self"
+				}, 
+				{	"href": "http://172.241.0.101:8774/v1.1/servers/19", 
+					"type": "application/json", 
+					"rel": "bookmark"
+				}, 
+				{	"href": "http://172.241.0.101:8774/v1.1/servers/19", 
+					"type": "application/xml", 
+					"rel": "bookmark"
+				}
+			], 
+		"name": "test-server", 
+		"id": 19, 
+		"metadata": {}
+	}
+}
