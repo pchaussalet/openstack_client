@@ -1,0 +1,8 @@
+
+start_env.sh
+
+openstack_client.tmproj
+
+.DS_Store
+
+*.pyc

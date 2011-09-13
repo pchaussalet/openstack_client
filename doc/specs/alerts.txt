@@ -1,0 +1,9 @@
+Alerts
+======
+	1. Une alerte référence un load balancer
+	2. Une alerte référence une action du service de scaling
+	3. Une alerte référence une métrique du load balancer, une valeur de référence et un mode de comparaison
+	4. Quand une alerte reçoit une valeur ne repectant pas la valeur de référence, elle appelle l'action du service
+	5. Chaque déclenchement de l'alerte est loggué
+	6. Une alerte déclenchée revient à son état normal si une valeur correcte est reçue
+	7. Une alerte déclenchée ne peut être redéclenchée avant un délai prédéfini

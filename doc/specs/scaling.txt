@@ -1,0 +1,10 @@
+Scaling
+=======
+	1. Un groupe de scaling référence une image
+	2. Un groupe de scaling référence une flavor
+	3. Un groupe de scaling peut contenir zéro ou plusieurs instances correspondant à l'image et la flavor
+	4. Un groupe de scaling peut instancier une ou plusieurs instances correspondant à l'image et la flavor ou détruire une ou plusieurs de ses instances
+	5. Un groupe de scaling référence un LB
+	6. Un LB comporte une IP externe et un IP interne
+	7. Les instances composant un groupe de scaling sont enregistrées auprès du LB
+	8. La quantité d'instances contenues dans un groupe de scaling est bornée
